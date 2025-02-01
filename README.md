@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything (one topic at a time) 🤣 
 - 👯 I’m looking to connect with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I'm a freediving instructor and love to explore the under water world!
+- ⚡ Fun fact: I'm a freediver and love to explore the under water world!
 
 <h5 align="center">Languages and Tools:</h3>
 <p align="center">
