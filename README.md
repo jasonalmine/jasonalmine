@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=520&lines=Building+AI-Powered+Solutions;Full+Stack+Web+Developer;Python+%26+JavaScript+Enthusiast;Automation+Expert" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=520&lines=Building+AI-Powered+Solutions;Python+%26+JavaScript+Enthusiast;Automation+Expert" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -126,3 +126,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer"/>
 </p>
+
